@@ -3,7 +3,7 @@
 # Hola 👋, soy Facundo
 ### Desarrollador Front-End de Argentina 
 
-- 💬 Preguntame sobre: **Desarrollo web, Git, JavaScript**.
+- 💬 Preguntame sobre: **Desarrollo web, Git, JavaScript React Js**.
 
 - 📫 Contácteme en: **facundo-grodriguez@hotmail.com**
 
