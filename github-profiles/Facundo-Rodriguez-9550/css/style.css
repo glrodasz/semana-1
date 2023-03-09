@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    background-color: rgb(201, 197, 197);
+    font-family: monospace;
+}
+
+main {
+    width: 800px;
+    justify-content: center;
+    margin: auto;
+}
+
+img {
+    margin: 2rem;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.lenguajes {
+    background: linear-gradient(rgba(107, 92, 73, 0.295),rgb(201, 197, 197));
+}
+
