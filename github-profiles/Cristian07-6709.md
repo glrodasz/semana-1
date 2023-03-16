@@ -5,13 +5,13 @@
 
 [![crtorres's 42 stats](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
-- student of 42 Madrid.
+- student at 42 Madrid.
 - Currently I spend my days working or studying.
 - I´m learning how to program in C,(Full stack) Javascript and Phyton.👨🏽‍🎓👨🏽‍💻
 - Always ready to help in any way possible.
 - How to reach me: **cristiantorres07@hotmail.com**
 
-### My way in 42Madrid school
+### My path at 42Madrid school
 
 | Project link 🔗🖥️ | Score✅ |
 |----------|---------|
